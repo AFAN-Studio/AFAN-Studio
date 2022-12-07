@@ -9,7 +9,8 @@
 ![Rank](https://github-readme-stats.vercel.app/api?username=AFAN-Studio&show_icons=true&theme=radical)![HitCount](https://github-readme-stats.vercel.app/api/top-langs/?username=AFAN-Studio&layout=compact&theme=radical)
 
 ## 代表项目:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=AFAN-Studio.github.io&show_owner=1)](https://github.com/AFAN-Studio/AFAN-Studio.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=AFAN-Studio.github.io&show_owner=true)](https://github.com/AFAN-Studio/AFAN-Studio.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=ADos&show_owner=true)](https://github.com/AFAN-Studio/ADos)
 
 ## 关于:
 如果您有意向加入我们，可以发送邮件至:afanstudio@163.com！
