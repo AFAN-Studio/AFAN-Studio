@@ -6,7 +6,7 @@
 <br/>
 
 ## 数据:
-![Rank](https://github-readme-stats.vercel.app/api?username=AFAN-Studio&show_icons=true&theme=radical&title_color=#FFFF00&text_color=#F5DEB3)![HitCount](https://github-readme-stats.vercel.app/api/top-langs/?username=AFAN-Studio&layout=compact&theme=radical)
+![Rank](https://github-readme-stats.vercel.app/api?username=AFAN-Studio&show_icons=true&title_color=#FFFF00&text_color=#F5DEB3)![HitCount](https://github-readme-stats.vercel.app/api/top-langs/?username=AFAN-Studio&layout=compact&theme=radical)
 
 ## 关于:
 如果您有意向加入我们，可以发送邮件至:afanstudio@163.com！
