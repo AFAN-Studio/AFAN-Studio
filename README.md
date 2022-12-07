@@ -11,6 +11,7 @@
 ## 代表项目:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=AFAN-Studio.github.io&show_owner=true)](https://github.com/AFAN-Studio/AFAN-Studio.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=ADos&show_owner=true)](https://github.com/AFAN-Studio/ADos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFAN-Studio&repo=AFANLibs&show_owner=true)](https://github.com/AFAN-Studio/AFANLibs)
 
 ## 关于:
 如果您有意向加入我们，可以发送邮件至:afanstudio@163.com！
