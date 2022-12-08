@@ -1,7 +1,7 @@
 # AFANStudio
 ## Logo:
 <div align=center>
-  <img src=https://github.com/AFAN-Studio/AFAN-Studio/blob/main/Logo.GIF width=100%/>
+  <img src=https://github.com/AFAN-Studio/AFAN-Studio/blob/main/AFANLogo.png width=100%/>
 </div>
 <br/>
 
