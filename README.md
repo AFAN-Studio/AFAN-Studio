@@ -1,5 +1,6 @@
 # AFANStudio
 
+<img src="https://count.getloli.com/get/@nicholasyang21?theme=gelbooru">
 
 ## Logo:
 <div align=center>
